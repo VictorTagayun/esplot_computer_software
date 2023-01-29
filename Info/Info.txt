@@ -1,0 +1,25 @@
+The software ES Plot has been developed to allow communication between
+a microcontroller based electronics and a computer. In particular, in 
+applications where the microcontroller is executing a real-time process,
+signals can be streamed to a computer in a synchronous way and data can
+be sent to the real-time process in an asynchronous way.
+
+ES Plot allows to plot the signals to screen by means of time plots, for
+observing their time evolutions, as well as X/Y plots, useful, for example,
+for the visualization of characteristics.
+
+It also allows to compute and visualize the FFT of signals in real-time,
+allowing the user to choose between amplitude and power spectrum.
+
+Signals can be recorded and exported to Matlab format. Also, recording
+can be triggered by the microcontroller application in order to record
+precise time windows. 
+
+The communication between microcontroller and computer can happen over
+serial communication (USB virtual com port) or over a native USB protocol
+relying on the FTDI FT4222 chip.
+
+ES Plot has been designed in order to provide high performance. For this
+reason, it needs multi core CPU as well as of a dedicated GPU. Plotting
+relies on OpenGL 3.2 and provides the best performance when a dedicated
+GPU is available.

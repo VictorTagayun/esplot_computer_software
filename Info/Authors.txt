@@ -1,0 +1,12 @@
+Copyright (C) Universitaet des Saarlandes 2020.
+
+This software has been conceived and developed by the authors Emanuele Grasso and
+Niklas Koenig.
+
+The documentation has been written by Carsten Klein.
+
+The logo of this software has been designed by Sara Schaefer:
+https://thalfis.artstation.com/
+
+Commercial licensing opportunities
+For commercial uses of the Software beyond the conditions applied by AGPL 3.0 please contact the Licensor sending an email to patentverwertungsagentur@uni-saarland.de

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>The following third-parties components have been used in the development of this software.</p>
+
+<p>The software is based on the Qt Libraries (compiled against Qt 5.12.0). The Qt libraries are dynamically linked to the application and licensed under the LGPL v3.0., see <a href="https://www.qt.io/licensing/">https://www.qt.io/licensing/</a>.</p>
+
+<p>The library KissFFT for the online computation of the FFT of the signals. This library is released under Free-BSD license and it has not been modified in its parts. The official webpage can be found at <a href="https://sourceforge.net/projects/kissfft/">https://sourceforge.net/projects/kissfft/</a>.</p>
+
+<p>The library FreeType has been used for loading fonts and creating glyphs. This library is released under FreeType License and it has not been modified in its parts. The official webpage can be found at <a href="https://www.freetype.org/">https://www.freetype.org/</a>.</p>
+
+<p>The libraries D2xx and LibFT422H have been used for the communication with the device FT4222 from FTDI. These libraries have not been modified in their parts and are dynamically linked to the application. These libraries may only be used in order to communicate with genuine FTDI devices. The official terms and conditions of these libraries can be found at <a href="https://www.ftdichip.com/Drivers/FTDriverLicenceTermsSummary.htm">https://www.ftdichip.com/Drivers/FTDriverLicenceTermsSummary.htm</a> and <a href="https://www.ftdichip.com/Drivers/FTDriverLicenceTerms.htm">https://www.ftdichip.com/Drivers/FTDriverLicenceTerms.htm</a>.</p>
+
+<p>The Connect and Disconnect icons have been downloaded and modified. Links to the webpages are <a href="https://www.iconfinder.com/icons/3937335/chain_hyperlink_internet_link_linked_icon">https://www.iconfinder.com/icons/3937335/chain_hyperlink_internet_link_linked_icon</a> and <a href="https://www.iconfinder.com/icons/3937343/break_broken_chain_connect_connection_disconnect_link_icon">https://www.iconfinder.com/icons/3937343/break_broken_chain_connect_connection_disconnect_link_icon</a>, respectively.</p>
+
+<p>The fonts Euler (by American Mathematical Society), Libertine (by Philipp H. Poll) and Quattrocento (by Pablo Impallari) are used in this software. The fonts are released under SIL Open Font Licence and have not been modified in their parts. The official webpage of the licence can be found under <a href="http://scripts.sil.org/OFL">http://scripts.sil.org/OFL</a>.</p>
+</body>
+</html>
