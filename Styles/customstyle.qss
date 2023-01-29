@@ -1,0 +1,7 @@
+QSplitter::handle {	
+        background: dark grey;
+        border: 3px grey;		
+        margin: 25px 1px;		
+        min-width: 5px;			
+        max-width: 5px;			
+}

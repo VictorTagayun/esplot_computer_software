@@ -1,0 +1,88 @@
+<RCC>
+    <qresource prefix="/fonts">
+        <file>3rdparty/Fonts/Euler/euler.otf</file>
+        <file>3rdparty/Fonts/Linux Libertine/LinLibertine_M.otf</file>
+        <file>3rdparty/Fonts/Quattrocento/Quattrocento-Regular.ttf</file>
+    </qresource>
+    <qresource prefix="/styles">
+        <file>Styles/customstyle.qss</file>
+    </qresource>
+    <qresource prefix="/shaders">
+        <file>Shaders/Dot.fsh</file>
+        <file>Shaders/Dot.vsh</file>
+        <file>Shaders/Line.fsh</file>
+        <file>Shaders/Line.gsh</file>
+        <file>Shaders/Line.vsh</file>
+        <file>Shaders/Texture.fsh</file>
+        <file>Shaders/Texture.vsh</file>
+        <file>Shaders/Zoom.fsh</file>
+        <file>Shaders/Zoom.vsh</file>
+        <file>Shaders/LineVertexID.vsh</file>
+        <file>Shaders/LineVertexID.gsh</file>
+        <file>Shaders/LineVertexID.fsh</file>
+        <file>Shaders/DotVertexID.fsh</file>
+        <file>Shaders/DotVertexID.vsh</file>
+        <file>Shaders/XYLine.vsh</file>
+        <file>Shaders/XYDot.vsh</file>
+    </qresource>
+    <qresource prefix="/preferences">
+        <file>Preferences/pref1</file>
+        <file>Preferences/pref2</file>
+        <file>Preferences/pref3</file>
+        <file>Preferences/pref4</file>
+    </qresource>
+    <qresource prefix="/info">
+        <file>Info/Authors.txt</file>
+        <file>Info/Info.txt</file>
+        <file>Info/Acknowledgment.txt</file>
+    </qresource>
+    <qresource prefix="/Icons">
+        <file>Icons/Add.ico</file>
+        <file>Icons/AddXY.ico</file>
+        <file>Icons/AddXYZ.ico</file>
+        <file>Icons/Associate.ico</file>
+        <file>Icons/Autorecord.ico</file>
+        <file>Icons/autosave.ico</file>
+        <file>Icons/autoscale.ico</file>
+        <file>Icons/base.gfie</file>
+        <file>Icons/clear.gfie</file>
+        <file>Icons/Clear.ico</file>
+        <file>Icons/Connect Disconnect Icon License</file>
+        <file>Icons/Connect.ico</file>
+        <file>Icons/Deassociate.ico</file>
+        <file>Icons/Disconnect.ico</file>
+        <file>Icons/esp_icon.gfie</file>
+        <file>Icons/esp_logo_icon.ico</file>
+        <file>Icons/EsPlotLogo.png</file>
+        <file>Icons/grid.ico</file>
+        <file>Icons/LATlogo.jpg</file>
+        <file>Icons/legend.ico</file>
+        <file>Icons/panXY.ico</file>
+        <file>Icons/Pause.ico</file>
+        <file>Icons/Play.ico</file>
+        <file>Icons/Record.ico</file>
+        <file>Icons/Remove.ico</file>
+        <file>Icons/RemoveXY.ico</file>
+        <file>Icons/RemoveXYZ.ico</file>
+        <file>Icons/resetStats.ico</file>
+        <file>Icons/save.ico</file>
+        <file>Icons/Sig_Settings.ico</file>
+        <file>Icons/Stats.ico</file>
+        <file>Icons/Stop.ico</file>
+        <file>Icons/SUlogo.jpg</file>
+        <file>Icons/title.ico</file>
+        <file>Icons/titleChange.ico</file>
+        <file>Icons/triggerFall.ico</file>
+        <file>Icons/triggerLeft.ico</file>
+        <file>Icons/triggerReset.ico</file>
+        <file>Icons/triggerRight.ico</file>
+        <file>Icons/triggerRise.ico</file>
+        <file>Icons/windows.ico</file>
+        <file>Icons/xTicks.ico</file>
+        <file>Icons/yTicks.ico</file>
+        <file>Icons/zoomBasic.gif</file>
+        <file>Icons/zoomX.ico</file>
+        <file>Icons/zoomXY.ico</file>
+        <file>Icons/zoomY.ico</file>
+    </qresource>
+</RCC>
